@@ -57,7 +57,7 @@ https://www.researchgate.net/publication/369549107
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 This project demonstrates how data analytics can be applied to real-world food safety challenges, bridging the gap between laboratory science and data-driven decision-making.
 
