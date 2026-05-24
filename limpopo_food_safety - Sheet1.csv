@@ -1,0 +1,21 @@
+Sample_ID,Retailer,Food_Type,Bacillus_logCFU,S_aureus_logCFU,Coliforms_logCFU,E_coli_logCFU,Yeast_logCFU,Total_Plate_Count_logCFU,Hygiene_Score
+1,Retailer 1,Fried Fish,3.2,2.1,3,2,2.8,3.5,Good
+2,Retailer 1,Meat Pie,2.8,1.9,2.5,1.8,2.5,3.2,Good
+3,Retailer 1,Fried Russian,2.5,2,2.8,1.9,2.7,3.3,Good
+4,Retailer 1,Chicken Stew,3,2.2,3.1,2.1,2.9,3.6,Good
+5,Retailer 1,Sandwich,3.9,2.5,3.5,2.2,3.2,3.8,Good
+6,Retailer 2,Fried Fish,2.2,1.5,2,1.2,2,2.8,Good
+7,Retailer 2,Meat Pie,2,1.4,1.9,1,1.8,2.5,Good
+8,Retailer 2,Fried Russian,1.7,1.3,1.8,1.1,1.9,2.6,Good
+9,Retailer 2,Chicken Stew,2.3,1.6,2.1,1.3,2.1,2.9,Good
+10,Retailer 2,Sandwich,2.5,1.8,2.3,1.5,2.2,3,Good
+11,Retailer 3,Fried Fish,3.1,2.3,3.6,2.2,3,3.7,Good
+12,Retailer 3,Meat Pie,2.9,2,3.4,2.1,2.8,3.5,Good
+13,Retailer 3,Fried Russian,2.7,2.1,3.2,2,2.7,3.4,Good
+14,Retailer 3,Chicken Stew,3.2,2.4,3.5,2.3,3.1,3.8,Good
+15,Retailer 3,Sandwich,3.5,2.6,3.8,2.4,3.3,3.9,Good
+16,Retailer 4,Fried Fish,3.4,2.6,3.7,2.3,3.2,3.9,Poor
+17,Retailer 4,Meat Pie,3.2,2.5,3.5,2.2,3,3.7,Poor
+18,Retailer 4,Fried Russian,3,2.4,3.3,2.1,2.9,3.6,Poor
+19,Retailer 4,Chicken Stew,3.6,2.7,3.8,2.4,3.4,3.9,Poor
+20,Retailer 4,Sandwich,3.8,2.8,3.9,2.5,3.5,4,Poor
